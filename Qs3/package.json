@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+        "expressjs": "^1.0.1",
+        "node-fetch": "^3.2.5",
+        "puppeteer": "^15.3.2"
+    }
+}
